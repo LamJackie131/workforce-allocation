@@ -1,0 +1,17 @@
+matplotlib
+numpy
+pulp
+scipy
+pandas
+plotly
+polyline
+requests
+streamlit
+openpyxl
+streamlit-authenticator
+streamlit-aggrid
+stringcase
+xlsxwriter
+requires.io
+pytest
+ipykernel
