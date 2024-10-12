@@ -1,0 +1,29 @@
+# Data ####
+###########
+DATA/
+DATA
+# Private folder ####
+#####################
+WIP/
+*/resources/
+resources
+# Data and history files ####
+#############################
+*.Rdata
+*.RData
+*.RDataTmp
+*.Rhistory
+*.csv
+*.html
+*.xlsx
+*.XLSX
+*/*.html
+.Rproj.user
+*.Rproj
+*.rds
+.vscode/
+# Tool #
+##################
+DATA
+DATA.bk
+Miniconda3-latest-MacOSX-arm64.sh
